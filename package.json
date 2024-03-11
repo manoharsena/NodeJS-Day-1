@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-day-1",
+  "version": "1.0.0",
+  "description": "expressJs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "senapathi",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.3.1",
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  }
+}
